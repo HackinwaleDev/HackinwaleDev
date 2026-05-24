@@ -30,7 +30,7 @@ Building institutional-grade crypto trading systems at Innovisie. Most productio
 
 ## Open to
 
-AI training and evaluation contracts (Mercor, Outlier, direct). Coding, quantitative finance and algorithmic trading SME work. Remote engagements only.
+AI training and evaluation contracts, direct or via platforms. Coding, quantitative finance and algorithmic trading subject-matter-expert work. Remote engagements only.
 
 ## Reach me
 
