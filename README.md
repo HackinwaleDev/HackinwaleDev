@@ -1,11 +1,11 @@
 # Akinwale Adetola
 
-Software engineer and quantitative developer. I build trading systems and ship production web platforms.
+Software engineer and quantitative developer. I build automated trading systems and strategies, and ship production grade web solutions.
 
 ## Focus areas
 
 - **Algorithmic and quantitative trading.** PineScript, MQL5, Python research; webhook-routed execution to live crypto exchanges; multi-symbol backtesting and audit reporting. Most production work is private.
-- **Full-stack software engineering.** React, Next.js, Node.js, Django, Spring Boot, ASP.NET. Five-plus years across e-learning, healthcare, business intelligence, fintech and payments.
+- **Full-stack software engineering.** React, Next.js, Node.js, Django, Spring Boot, ASP.NET. 5+ years across e-learning, healthcare, business intelligence, fintech and payments.
 - **AI tooling and assistance.** Day-to-day user of Claude Code, MCP server integrations, and AI-assisted research and audit-report generation.
 
 ## Selected work (high level)
