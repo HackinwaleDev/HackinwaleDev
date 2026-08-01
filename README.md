@@ -30,7 +30,7 @@ Building institutional-grade crypto trading systems at Innovisie. Most productio
 
 ## Open to
 
-AI training and evaluation contracts, direct or via platforms. Coding, quantitative finance and algorithmic trading subject-matter-expert work. Remote engagements only.
+Software engineering roles, quantitative finance and algorithmic trading roles. AI training and evaluation contracts, direct or via platforms. Fully remote work mode globally except offering relocation.
 
 ## Reach me
 
