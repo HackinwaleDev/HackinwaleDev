@@ -40,6 +40,14 @@ Building an institutional-grade crypto trading system at Innovisie, and research
 
 Software engineering roles, and quantitative finance and algorithmic trading roles. AI training and evaluation contracts, direct or via platforms. Fully remote globally, and open to relocation for the right role.
 
+## GitHub insights
+
+![Akinwale's GitHub stats](https://github-readme-stats.vercel.app/api?username=HackinwaleDev&show_icons=true&count_private=true&include_all_commits=true&hide_rank=false)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HackinwaleDev&layout=compact&langs_count=8)
+
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=HackinwaleDev)
+
 ## Reach me
 
 - **LinkedIn:** [linkedin.com/in/hackinwale](https://www.linkedin.com/in/hackinwale)
