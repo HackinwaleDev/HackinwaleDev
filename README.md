@@ -44,9 +44,6 @@ Software engineering roles, and quantitative finance and algorithmic trading rol
 
 ![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HackinwaleDev&theme=default)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HackinwaleDev&theme=default)
-![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HackinwaleDev&theme=default)
-
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=HackinwaleDev)
 
 ## Reach me
