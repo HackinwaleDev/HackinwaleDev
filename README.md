@@ -42,9 +42,10 @@ Software engineering roles, and quantitative finance and algorithmic trading rol
 
 ## GitHub insights
 
-![Akinwale's GitHub stats](https://github-readme-stats.vercel.app/api?username=HackinwaleDev&show_icons=true&count_private=true&include_all_commits=true&hide_rank=false)
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HackinwaleDev&theme=default)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HackinwaleDev&layout=compact&langs_count=8)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HackinwaleDev&theme=default)
+![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HackinwaleDev&theme=default)
 
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=HackinwaleDev)
 
