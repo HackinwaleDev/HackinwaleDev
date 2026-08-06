@@ -10,15 +10,23 @@ Backend systems engineer and quantitative developer. I build automated trading s
 
 ## Selected work (high level)
 
-- **UTS (Universal Trading System).** Management and execution layer that routes research signals via webhook to live crypto exchanges (ByBit, Kraken; OKX pending). Multi-symbol audit across 265 crypto perpetuals over 23 months of historical data produced $3.80M aggregate net profit in backtesting at a 151:86 win-to-loss ratio, 3.6x the original baseline.
+### Trading and quantitative
+
+- **UTS (Universal Trading System).** Management and execution layer that routes research signals via webhook to live crypto exchanges (ByBit, Kraken; OKX pending). Multi-symbol audit across 265 crypto perpetuals over 23 months of historical data produced $3.80M aggregate net profit in backtesting at a 151:86 win-to-loss ratio, 3.6x the original baseline. Runs on AWS EC2.
 - **Proprietary quantitative model library.** Six trend, momentum and breakout models (Curve, Phoenix, Gradient, MomentumCurve, TrendIdentifier, Dynamic Breakout), each grounded in a measurable statistical edge. Private.
 - **Exchange connector layer.** Redesigned to separate signal acknowledgement from execution, cutting signal-to-fill latency below 100ms and removing the executor as a source of slippage.
 - **Audit and reconciliation pipeline.** Python plus JS batch harness running TradingView strategies across hundreds of symbols, producing HTML and DOCX performance reports for version-over-version analysis.
 
+### Backend and platform engineering
+
+- **Subscription and payment rescue (CVTOCAREER).** Joined, audited the platform, found the payment integration was a non-functional placeholder, and shipped a working subscription flow within a week (Zoho Books API, cron reminders, webhook reconciliation). Launched the product within 3 months and was promoted to Tech Lead over ~10 engineers.
+- **Schema-adaptive reporting engine (Verizon BI).** Dynamic search, filter and sort layer that adapts itself to any dataset without code changes, with cron-driven scheduled report delivery (daily, weekly, monthly) and interactive choropleth visualizations over US-wide KPI data.
+- **Geospatial data pipeline (Medcob).** Google Maps API validation and backfill that enriched thousands of healthcare facility records with precise coordinates and full addresses, unblocking launch of a platform built to serve up to 1,000,000 users. Includes nearest-facility matching by service type.
+
 ## Tech I work with
 
 - **Languages:** TypeScript, JavaScript, Python, Java (SE/EE), C#, SQL, PineScript, MQL5.
-- **Frontend:** React, Next.js, Redux, React Query, D3.js, Material UI.
+- **Frontend (working knowledge):** React, Next.js, Redux, React Query, D3.js, Material UI. Comfortable working across these and guiding others, with backend as my primary strength.
 - **Backend:** Node.js, Express, Django, ASP.NET, REST, GraphQL, microservices.
 - **Data and infra:** MongoDB, PostgreSQL, AWS (EC2, S3), Google Cloud, DigitalOcean, Heroku, GitHub Actions.
 - **Quant and trading:** TradingView, MetaTrader 5, ByBit and Kraken APIs, pandas, scikit-learn.
